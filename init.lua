@@ -19,5 +19,3 @@ require "user.indentline"
 require "user.alpha"
 require "user.whichkey"
 require "user.autocommands"
-
-vim.g.python3_host_prog = 'path/to/python3'
